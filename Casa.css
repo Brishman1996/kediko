@@ -10,12 +10,22 @@
   margin: 0 auto;
   background-color: aqua;
 }
- 
+.franja .oferta .oferta-mensaje {
+  display: block;
+  margin: auto 0;
+}
  
  .u-section-1 {
-  /* background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url("images/bggr.jpg"); */
-  background-position: 50% 50%;
+   /* background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url("https://tf.quomodosoft.com/appie/wp-content/uploads/2022/04/home-5-backround-img.jpg");  */
+  /* background-position: 50% 50%; */
+  background-color: #F9F9F9;
+    background-image: url(images/home-5-backround-img.jpg);
+    background-position: 45% 0;
+  background-position: 45% 0;
+    background-repeat: no-repeat;
+    background-size: cover;
   min-height: 823px;
+ 
 }
 
 .u-section-1 .u-image-1 {
@@ -29,7 +39,7 @@
 .u-section-1 .u-group-1 {
   width: 637px;
   min-height: 453px;
-  margin: -682px auto 0 calc(((100% - 1140px) / 2));
+  margin: -610px auto 0 calc(((100% - 1140px) / 2));
 }
 
 .u-section-1 .u-container-layout-1 {
@@ -37,9 +47,10 @@
 }
 
 .u-section-1 .u-text-1 {
-  font-size: 6rem;
+  font-size: 5rem;
   background-image: none;
   margin: 38px 0 0;
+  font-weight: bold;
 }
 
 .u-section-1 .u-text-2 {

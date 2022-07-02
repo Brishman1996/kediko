@@ -1085,7 +1085,7 @@ ol {
   letter-spacing: inherit;
   text-transform: inherit;
   font-weight: 600;
-  font-size: 18px;
+  font-size: 16px;
 }
 
 .u-text:not(ul):not(ol):not(p):not(.u-post-content):not(.u-block-content):not(.u-product-desc):not(.u-cart-block-content):not(.u-checkout-block-content) a {
@@ -36635,7 +36635,7 @@ a.u-link.u-text-hover-grey-90:hover {
 
 /*end-variables sitestylecss*/
  .u-header {
-  background-image: none;
+  background-color: #F9F9F9;
 }
 
 .u-header .u-sheet-1 {
@@ -36645,7 +36645,7 @@ a.u-link.u-text-hover-grey-90:hover {
 .u-header .u-image-1 {
   width: 64px;
   height: 32px;
-  margin: 22px auto 0 0;
+  margin: 8px auto 0 0;
 }
 
 .u-header .u-logo-image-1 {
@@ -36655,7 +36655,7 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-menu-1 {
-  margin: -45px 0 40px auto;
+  margin: -45px 0 15px auto;
 }
 
 .u-header .u-nav-1 {
