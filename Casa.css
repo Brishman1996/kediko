@@ -14,7 +14,32 @@
   display: block;
   margin: auto 0;
 }
- 
+.u-image-team {
+  /*min-width: 200px;
+  min-height: 350px;*/
+  background-color: #b3b3b3;
+  flex-direction: column;
+}
+.box-team {
+
+}
+.content-team {
+  text-align: center;
+}
+
+.content-team .name-team {
+  font-weight: 500;
+  font-size: 2.25rem;
+}
+.content-team .rol-team{
+  font-size: 1.25rem;
+}
+
+/*FINAL KEDIKO*/
+
+
+
+
  .u-section-1 {
    /* background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url("https://tf.quomodosoft.com/appie/wp-content/uploads/2022/04/home-5-backround-img.jpg");  */
   /* background-position: 50% 50%; */
