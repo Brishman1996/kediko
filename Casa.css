@@ -42,6 +42,23 @@
 }
 .img-team img{
   width: 100%;
+  
+}
+@media (min-width: 768px) {
+  .img-team img {
+    height: 211px;
+  }
+}
+@media (min-width: 992px) {
+  .img-team img {
+    min-height: 285px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .img-team img {
+    height: 314px;
+  }
 }
 
 .box-team {
