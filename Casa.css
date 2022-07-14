@@ -60,7 +60,13 @@
     height: 314px;
   }
 }
-
+.text-descargar {
+  color: #478acb !important;
+}
+.btn-download {
+  margin: 40px auto !important;
+  margin-bottom: 0px !important;
+}
 .box-team {
   
 }
@@ -1446,7 +1452,7 @@
 
 .u-section-6 .u-image-1 {
   min-height: 629px;
-  background-image: url("images/grcell2.jpg");
+  background-image: url("https://cloudfront-us-east-1.images.arcpublishing.com/infobae/ARSXOXGFAVHVZA5WYNF66YOQZY.jpg");
   background-position: 50% 50%;
 }
 
@@ -1639,7 +1645,7 @@
 }
 
 .u-section-7 .u-image-3 {
-  background-image: url("images/Untitled2.jpg");
+  background-image: url("https://calidadtdf.com.ar/data/img_cont/img_imagenes/img_gr/4875_5014.jpeg");
   min-height: 594px;
   background-position: 50% 50%;
 }
@@ -1726,7 +1732,7 @@
     min-height: 498px;
   }
 } .u-section-8 {
-  background-image: url("images/xc.jpg");
+  /*background-image: url("images/xc.jpg");*/
   background-position: 50% 50%;
 }
 
